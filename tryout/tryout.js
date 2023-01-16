@@ -3,3 +3,9 @@ function hello() {
 }
 
 hello();
+
+function hello2x(){
+console.log("HELOOOO HELOOOO");
+}
+
+hello2x();
